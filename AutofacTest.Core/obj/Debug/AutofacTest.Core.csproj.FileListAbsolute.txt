@@ -1,0 +1,16 @@
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\AutofacTest.Core.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\AutofacTest.Core.pdb
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Autofac.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Autofac.xml
+D:\RND 01\AutofacTest\AutofacTest.Core\obj\Debug\AutofacTest.Core.csprojResolveAssemblyReference.cache
+D:\RND 01\AutofacTest\AutofacTest.Core\obj\Debug\AutofacTest.Core.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\obj\Debug\AutofacTest.Core.pdb
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Settings.AppSettings.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.Console.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.File.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.RollingFile.dll
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.xml
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.Console.xml
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.File.xml
+D:\RND 01\AutofacTest\AutofacTest.Core\bin\Debug\Serilog.Sinks.RollingFile.xml
